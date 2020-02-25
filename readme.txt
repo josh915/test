@@ -5,5 +5,9 @@ git add4
 这是测试文件2
 这是服务器添加1
 这是服务器添加2
-Creating a new branch is quick AND simple1.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+>>>>>>> feature1
 
